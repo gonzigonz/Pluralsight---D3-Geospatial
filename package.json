@@ -1,0 +1,21 @@
+{
+  "name": "pluralsight---d3-geospatial",
+  "version": "0.0.1",
+  "description": "Geospatial Mapping with D3",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzigonz/Pluralsight---D3-Geospatial.git"
+  },
+  "author": "Gonzalo Lucero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gonzigonz/Pluralsight---D3-Geospatial/issues"
+  },
+  "homepage": "https://github.com/gonzigonz/Pluralsight---D3-Geospatial#readme",
+  "dependencies": {
+    "topojson": "1"
+  }
+}
